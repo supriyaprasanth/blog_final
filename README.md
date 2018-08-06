@@ -18,4 +18,12 @@ import filter using
   pip install django-filter
   
   
+features of the blog:
+user registration and login
+user can create posts
+users can like and comment on posts
+only the corresponding user who posted a blog can delete it
+user can search for the post using a title search, by specifying the title in full or part
+  
+  
   
